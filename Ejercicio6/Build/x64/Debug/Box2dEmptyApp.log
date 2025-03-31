@@ -1,0 +1,15 @@
+﻿  Game.cpp
+F:\UNL Virtual\Reforma\MAVII\Modulo 3 - Dinamica de cuerpos puntuales\EsqueletoAPP\Box2dFirstApp\Src\Game.cpp(45,52): warning C4244: 'argumento': conversión de 'int' a 'T'; posible pérdida de datos
+F:\UNL Virtual\Reforma\MAVII\Modulo 3 - Dinamica de cuerpos puntuales\EsqueletoAPP\Box2dFirstApp\Src\Game.cpp(45,52): warning C4244:         with
+F:\UNL Virtual\Reforma\MAVII\Modulo 3 - Dinamica de cuerpos puntuales\EsqueletoAPP\Box2dFirstApp\Src\Game.cpp(45,52): warning C4244:         [
+F:\UNL Virtual\Reforma\MAVII\Modulo 3 - Dinamica de cuerpos puntuales\EsqueletoAPP\Box2dFirstApp\Src\Game.cpp(45,52): warning C4244:             T=float
+F:\UNL Virtual\Reforma\MAVII\Modulo 3 - Dinamica de cuerpos puntuales\EsqueletoAPP\Box2dFirstApp\Src\Game.cpp(45,52): warning C4244:         ]
+F:\UNL Virtual\Reforma\MAVII\Modulo 3 - Dinamica de cuerpos puntuales\EsqueletoAPP\Box2dFirstApp\Src\Game.cpp(50,53): warning C4244: 'argumento': conversión de 'int' a 'T'; posible pérdida de datos
+F:\UNL Virtual\Reforma\MAVII\Modulo 3 - Dinamica de cuerpos puntuales\EsqueletoAPP\Box2dFirstApp\Src\Game.cpp(50,53): warning C4244:         with
+F:\UNL Virtual\Reforma\MAVII\Modulo 3 - Dinamica de cuerpos puntuales\EsqueletoAPP\Box2dFirstApp\Src\Game.cpp(50,53): warning C4244:         [
+F:\UNL Virtual\Reforma\MAVII\Modulo 3 - Dinamica de cuerpos puntuales\EsqueletoAPP\Box2dFirstApp\Src\Game.cpp(50,53): warning C4244:             T=float
+F:\UNL Virtual\Reforma\MAVII\Modulo 3 - Dinamica de cuerpos puntuales\EsqueletoAPP\Box2dFirstApp\Src\Game.cpp(50,53): warning C4244:         ]
+F:\UNL Virtual\Reforma\MAVII\Modulo 3 - Dinamica de cuerpos puntuales\EsqueletoAPP\Box2dFirstApp\Src\Game.cpp(63,11): error C2086: 'sf::Font font': nueva definición
+  F:\UNL Virtual\Reforma\MAVII\Modulo 3 - Dinamica de cuerpos puntuales\EsqueletoAPP\Box2dFirstApp\Src\Game.cpp(62,11):
+  vea la declaración de 'font'
+  

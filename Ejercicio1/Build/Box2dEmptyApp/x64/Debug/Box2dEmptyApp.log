@@ -1,0 +1,17 @@
+﻿  Box2dEmptyApp.cpp
+  Game.cpp
+D:\PROGRAMACION\UNL-Tecnicatura Desarrollo de Videojuegos\MAVI II\Unidad2\Ejercicio1\Src\Game.cpp(45,52): warning C4244: 'argumento': conversión de 'int' a 'T'; posible pérdida de datos
+D:\PROGRAMACION\UNL-Tecnicatura Desarrollo de Videojuegos\MAVI II\Unidad2\Ejercicio1\Src\Game.cpp(45,52): warning C4244:         with
+D:\PROGRAMACION\UNL-Tecnicatura Desarrollo de Videojuegos\MAVI II\Unidad2\Ejercicio1\Src\Game.cpp(45,52): warning C4244:         [
+D:\PROGRAMACION\UNL-Tecnicatura Desarrollo de Videojuegos\MAVI II\Unidad2\Ejercicio1\Src\Game.cpp(45,52): warning C4244:             T=float
+D:\PROGRAMACION\UNL-Tecnicatura Desarrollo de Videojuegos\MAVI II\Unidad2\Ejercicio1\Src\Game.cpp(45,52): warning C4244:         ]
+D:\PROGRAMACION\UNL-Tecnicatura Desarrollo de Videojuegos\MAVI II\Unidad2\Ejercicio1\Src\Game.cpp(50,53): warning C4244: 'argumento': conversión de 'int' a 'T'; posible pérdida de datos
+D:\PROGRAMACION\UNL-Tecnicatura Desarrollo de Videojuegos\MAVI II\Unidad2\Ejercicio1\Src\Game.cpp(50,53): warning C4244:         with
+D:\PROGRAMACION\UNL-Tecnicatura Desarrollo de Videojuegos\MAVI II\Unidad2\Ejercicio1\Src\Game.cpp(50,53): warning C4244:         [
+D:\PROGRAMACION\UNL-Tecnicatura Desarrollo de Videojuegos\MAVI II\Unidad2\Ejercicio1\Src\Game.cpp(50,53): warning C4244:             T=float
+D:\PROGRAMACION\UNL-Tecnicatura Desarrollo de Videojuegos\MAVI II\Unidad2\Ejercicio1\Src\Game.cpp(50,53): warning C4244:         ]
+  SFMLRenderer.cpp
+D:\PROGRAMACION\UNL-Tecnicatura Desarrollo de Videojuegos\MAVI II\Unidad2\Ejercicio1\Src\SFMLRenderer.cpp(115,22): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+D:\PROGRAMACION\UNL-Tecnicatura Desarrollo de Videojuegos\MAVI II\Unidad2\Ejercicio1\Src\SFMLRenderer.cpp(115,19): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+  Generando código...
+  Box2dEmptyApp.vcxproj -> D:\PROGRAMACION\UNL-Tecnicatura Desarrollo de Videojuegos\MAVI II\Unidad2\Ejercicio1\Bin\Debug\Box2dEmptyApp.exe
