@@ -1,3 +1,0 @@
-﻿  Box2dEmptyApp.cpp
-D:\PROGRAMACION\UNL-Tecnicatura Desarrollo de Videojuegos\MAVI II\Unidad2\Ejercicio5\Src\Box2dEmptyApp.cpp(15,31): warning C4244: 'argumento': conversión de 'float' a 'unsigned int'; posible pérdida de datos
-  Box2dEmptyApp.vcxproj -> D:\PROGRAMACION\UNL-Tecnicatura Desarrollo de Videojuegos\MAVI II\Unidad2\Ejercicio5\Bin\Debug\Box2dEmptyApp.exe

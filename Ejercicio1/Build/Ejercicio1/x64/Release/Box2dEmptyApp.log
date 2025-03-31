@@ -1,9 +1,0 @@
-﻿  Game.cpp
-D:\PROGRAMACION\UNL-Tecnicatura Desarrollo de Videojuegos\MAVI II\Unidad2\Ejercicio1\Src\Game.cpp(101,84): warning C4305: 'argumento': truncamiento de 'double' a 'float'
-D:\PROGRAMACION\UNL-Tecnicatura Desarrollo de Videojuegos\MAVI II\Unidad2\Ejercicio1\Src\Game.cpp(101,80): warning C4305: 'argumento': truncamiento de 'double' a 'float'
-  Generando código
-  3 of 153 functions ( 2.0%) were compiled, the rest were copied from previous compilation.
-    0 functions were new in current compilation
-    0 functions had inline decision re-evaluated but remain unchanged
-  Generación de código finalizada
-  Box2dEmptyApp.vcxproj -> D:\PROGRAMACION\UNL-Tecnicatura Desarrollo de Videojuegos\MAVI II\Unidad2\Ejercicio1\Bin\Release\Ejercicio1.exe

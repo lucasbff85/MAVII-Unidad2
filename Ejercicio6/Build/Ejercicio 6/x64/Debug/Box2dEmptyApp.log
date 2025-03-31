@@ -1,6 +1,0 @@
-﻿  main.cpp
-D:\PROGRAMACION\UNL-Tecnicatura Desarrollo de Videojuegos\MAVI II\Unidad2\Ejercicio6\Src\main.cpp(21,70): warning C4305: 'argumento': truncamiento de 'double' a 'float'
-D:\PROGRAMACION\UNL-Tecnicatura Desarrollo de Videojuegos\MAVI II\Unidad2\Ejercicio6\Src\main.cpp(21,65): warning C4305: 'argumento': truncamiento de 'double' a 'float'
-D:\PROGRAMACION\UNL-Tecnicatura Desarrollo de Videojuegos\MAVI II\Unidad2\Ejercicio6\Src\main.cpp(21,60): warning C4305: 'argumento': truncamiento de 'double' a 'float'
-D:\PROGRAMACION\UNL-Tecnicatura Desarrollo de Videojuegos\MAVI II\Unidad2\Ejercicio6\Src\main.cpp(40,30): warning C4244: 'argumento': conversión de 'float' a 'unsigned int'; posible pérdida de datos
-  Box2dEmptyApp.vcxproj -> D:\PROGRAMACION\UNL-Tecnicatura Desarrollo de Videojuegos\MAVI II\Unidad2\Ejercicio6\Bin\Debug\Ejercicio 6.exe
